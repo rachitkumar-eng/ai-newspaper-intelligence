@@ -462,43 +462,46 @@ These figures describe the current sample document and may change when another n
 ### Newspaper overview
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="Newspaper overview dashboard" width="900">
+  <img src="screenshots/f1.png" alt="Newspaper overview dashboard" width="900">
+</p>
+
+### Engineering Components
+
+<p align="center">
+  <img src="screenshots/f11.png" alt="Ask Newspaper AI" width="900">
 </p>
 
 ### Ask Newspaper AI
 
 <p align="center">
-  <img src="assets/ask-newspaper-ai.png" alt="Ask Newspaper AI" width="900">
+  <img src="screenshots/f3.png" alt="Ask Newspaper AI" width="900">
 </p>
 
 ### Retrieved evidence
 
 <p align="center">
-  <img src="assets/retrieved-sources.png" alt="Retrieved newspaper sources" width="900">
+  <img src="screenshots/f4.png" alt="Retrieved newspaper sources" width="900">
 </p>
 
 ### Daily brief
 
 <p align="center">
-  <img src="assets/daily-brief.png" alt="Daily newspaper brief" width="900">
+  <img src="screenshots/f6.png" alt="Daily newspaper brief" width="900">
+</p>
+<p align="center">
+  <img src="screenshots/f7.png" alt="Daily newspaper brief" width="900">
 </p>
 
 ### NLP intelligence
 
 <p align="center">
-  <img src="assets/nlp-intelligence.png" alt="Newspaper NLP intelligence" width="900">
-</p>
-
-### Entity explorer
-
-<p align="center">
-  <img src="assets/entity-explorer.png" alt="Newspaper entity explorer" width="900">
+  <img src="screenshots/f9.png" alt="Newspaper NLP intelligence" width="900">
 </p>
 
 ### System architecture
 
 <p align="center">
-  <img src="assets/architecture.png" alt="System architecture" width="900">
+  <img src="screenshots/f10.png" alt="Newspaper entity explorer" width="900">
 </p>
 
 ---
@@ -591,18 +594,6 @@ The focus is not simply on generating text with an LLM, but on building the surr
 **Interface:** Streamlit
 
 **Sample document:** 40-page newspaper PDF
-
----
-
-## Author
-
-**Rachit Kumar Patel**
-
-Data Engineering · Analytics · Machine Learning · Generative AI
-
-<p align="left">
-  <a href="https://github.com/rachitkumar-eng">GitHub</a>
-</p>
 
 ---
 
